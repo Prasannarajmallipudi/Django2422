@@ -1,5 +1,4 @@
-# Django2422
-Django Workshop  New Batch
+# Django Workshop
 
 ## If any doubts ping to Telegram Group:
 #### Telegram Group: https://t.me/django2422
